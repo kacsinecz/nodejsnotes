@@ -1,0 +1,3 @@
+Ešte treba dorobiť:
+- mazanie poznámky
+- pri udalosti blur sa zapisuju udaje do databazy aj udaje takej poznamky, ktora dostava focus, a nielen tej, ktora straca focus 

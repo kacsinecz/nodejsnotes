@@ -1,0 +1,24 @@
+div {
+    height: 180px;
+    width: 300px;
+    border: 1px solid black;
+    padding-bottom: 4px;
+    padding-right: 4px;
+    padding-top: 20px;
+    background-color: rgb(255,255,0);
+    position: absolute;
+}
+
+textarea,textaera:focus {
+    outline: none;
+    border: none;
+    background-color: rgb(255,255,153);
+    resize: none;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
